@@ -1,8 +1,8 @@
 # Containers-H-On-CPP
 
-Implementation of the STL containers.h. library.
+Implementation of the STL containers.h. library
 
-### Overview of "Containers" classes.
+### Overview of "Containers" classes
 
 | Container name | Description                                                                                                                           |
 |----------------|---------------------------------------------------------------------------------------------------------------------------------------|
